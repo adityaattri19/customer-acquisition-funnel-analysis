@@ -1,0 +1,3 @@
+is_premium_user,total_customers,avg_spent,avg_LTV,churn_rate_pct
+1,4536,512.05,1241.17,14.99
+0,10364,508.14,1233.62,15.49

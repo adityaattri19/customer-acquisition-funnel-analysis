@@ -1,0 +1,4 @@
+device_type,total_customers,avg_revenue_per_visit,avg_total_spent,avg_engagement
+Desktop,4923,36.84,510.17,0.47
+Tablet,5014,36.54,506.63,0.47
+Mobile,4963,36.35,511.22,0.47
