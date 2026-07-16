@@ -3,7 +3,7 @@
 
 **Diagnosing Customer Acquisition Efficiency and Retention Drivers Across 5 Digital Channels for a B2C SaaS Platform**
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard_.png)
 
 ---
 
@@ -34,7 +34,7 @@ Insights and recommendations are provided across four key areas:
 - **Revenue Segmentation:** Which customer segments (Premium vs Regular, Annual vs Monthly) generate the most value and retain best?
 - **Engagement Patterns:** How do visit behavior, session time, and email engagement connect to actual spending and retention outcomes?
 
-The Python cleaning and feature engineering script is [here](cleaning.py).
+The Python cleaning and feature engineering script is [here](funnel_ans_cleaning.ipynb).
 
 The full SQL analysis report with query screenshots and findings is [here](SQL_Analysis_Report.pdf).
 
@@ -167,15 +167,15 @@ Based on the analysis conducted across Nexora's 14,900 customer records, the fol
 ```
 customer-acquisition-funnel-analysis/
 │
-├── cleaning.py                          # Python data cleaning and feature engineering script
-├── analysis_queries.sql                 # All 15 SQL queries with section comments
-├── cleaned_data.csv                     # Final cleaned dataset (14,900 rows, 35 columns)
-├── SQL_Analysis_Report.pdf             # Full query results with screenshots and findings
+├── funnel_ans_cleaning.ipynb                   # Python data cleaning and feature engineering script
+├── analysis_queries.sql                        # All 15 SQL queries with section comments
+├── funnel_clean_data.csv                       # Final cleaned dataset (14,900 rows, 35 columns)
+├── SQL_Analysis_Report.pdf                     # Full query results with screenshots and findings
 ├── Customer_Acquisition_Funnel_Analysis.pbix   # Power BI dashboard file
-├── dashboard.png                        # Dashboard screenshot
-├── README.md                            # Project documentation
+├── dashboard_.png                              # Dashboard screenshot
+├── README.md                                   # Project documentation
 │
-└── query_results/                       # Individual CSV exports for each SQL query
+└── query_results/                              # Individual CSV exports for each SQL query
     ├── Q01_customers_by_channel.csv
     ├── Q02_avg_CAC_by_channel.csv
     ├── Q03_avg_LTV_by_channel.csv
@@ -198,5 +198,5 @@ customer-acquisition-funnel-analysis/
 ## Contact
 
 **Aditya Attri**
-GitHub: [your GitHub profile link]
-LinkedIn: [your LinkedIn link]
+GitHub: [Aditya Attri](https://github.com/adityaattri19/)
+LinkedIn: [Aditya Attri](https://www.linkedin.com/in/aditya-attri19/)
