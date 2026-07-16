@@ -40,7 +40,7 @@ The full SQL analysis report with query screenshots and findings is [here](SQL_A
 
 Individual query result exports are in the [query_results](query_results/) folder.
 
-The interactive Power BI dashboard file is [here](Customer_Acquisition_Funnel_Analysis.pbix).
+The interactive Power BI dashboard file is [here](dashboard/Customer_Acquisition_Funnel_Analysis.pbix).
 
 ---
 
@@ -79,7 +79,7 @@ The most significant finding in the entire analysis is not channel-related. Sati
 
 For Nexora's growth and customer success teams, the data points clearly to one conclusion: acquisition cost is not the problem. What happens after acquisition is.
 
-*The interactive Power BI dashboard can be downloaded [here](Customer_Acquisition_Funnel_Analysis.pbix).*
+*The interactive Power BI dashboard can be downloaded [here](dashboard/Customer_Acquisition_Funnel_Analysis.pbix).*
 
 ---
 
@@ -198,5 +198,5 @@ customer-acquisition-funnel-analysis/
 ## Contact
 
 **Aditya Attri**
-GitHub: [Aditya Attri](https://github.com/adityaattri19/)
-LinkedIn: [Aditya Attri](https://www.linkedin.com/in/aditya-attri19/)
+- GitHub: [Aditya Attri](https://github.com/adityaattri19/)
+- LinkedIn: [Aditya Attri](https://www.linkedin.com/in/aditya-attri19/)
