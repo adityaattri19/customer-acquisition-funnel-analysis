@@ -77,7 +77,9 @@ Nexora's five acquisition channels spend nearly identically to acquire customers
 
 The most significant finding in the entire analysis is not channel-related. Satisfaction score is the single strongest predictor of churn across Nexora's customer base. Customers scoring 1 or 2 on satisfaction churn at 48 to 50 percent. Customers scoring 3 or above churn at only 9 to 10 percent. That 40 percentage point cliff means the difference between a dissatisfied and a neutral customer is a 5x difference in churn probability. Support ticket volume above 4 is the second strongest churn signal, with churn rates jumping from 13 percent to above 50 percent at 5 or more tickets.
 
-For Nexora's growth and customer success teams, the data points clearly to one conclusion: acquisition cost is not the problem. What happens after acquisition is.
+For Nexora's growth and customer success teams, the data clearly point to one conclusion: acquisition cost is not the problem. What happens after acquisition is.
+
+![Dashboard](dashboard/dashboard_.png)
 
 *The interactive Power BI dashboard can be downloaded [here](dashboard/Customer_Acquisition_Funnel_Analysis.pbix).*
 
