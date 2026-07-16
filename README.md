@@ -3,7 +3,7 @@
 
 **Diagnosing Customer Acquisition Efficiency and Retention Drivers Across 5 Digital Channels for a B2C SaaS Platform**
 
-![Dashboard](dashboard_.png)
+![Dashboard](dashboard/dashboard_.png)
 
 ---
 
